@@ -1,4 +1,4 @@
-# 
+# Exclusivo Omni Flash modelos. Com treinamento de modelos personalizados e arquitetura escalável — otimizado para máximo desempenho e eficiência.
 
 
 
